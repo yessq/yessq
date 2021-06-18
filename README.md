@@ -16,7 +16,7 @@
 const Yess = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Go],
-  tools: [React, Node, , Styled-Components, SQL],
+  tools: [React, Node, SQL],
                       },
 
 ```
