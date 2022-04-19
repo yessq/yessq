@@ -4,10 +4,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently working in the area of Data & Analytics
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying computer programming .
-- 🌱 &nbsp; Enthusiast in informatic Security and Artificial Intelligence.
+- 🎓 &nbsp; Studying computer engineering .
 
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
